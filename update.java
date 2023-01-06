@@ -1,1 +1,1 @@
-update dot java
+update java
