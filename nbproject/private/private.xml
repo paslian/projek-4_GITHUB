@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Agricurtural%20Spices/src/java/Servlet/EditServlet.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Agricurtural%20Spices/web/views/layouts/navbar.jsp</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Agricurtural%20Spices/src/java/Servlet/CreateServlet.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Agricurtural%20Spices/web/public/assets/backend/navbarcss.css</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Agricurtural%20Spices/web/views/layouts/footer.jsp</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Agricurtural%20Spices/web/views/create.jsp</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Agricurtural%20Spices/web/views/index.jsp</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Agricurtural%20Spices/src/java/Query/UserQuery.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Agricurtural%20Spices/web/views/layouts/head.jsp</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Agricurtural%20Spices/web/views/history.jsp</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Agricurtural%20Spices/src/java/Controller/ProductController.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Agricurtural%20Spices/web/index.html</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Agricurtural%20Spices/web/views/layouts/navbarjsp.jsp</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Agricurtural%20Spices/src/java/Servlet/LoginServlet.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Agricurtural%20Spices/web/login.html</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Agricurtural%20Spices/web/views/stock.jsp</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Agricurtural%20Spices/web/views/edit.jsp</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Agricurtural%20Spices/src/java/Controller/BaseController.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Agricurtural%20Spices/src/java/Helper/StringHelper.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Agricurtural%20Spices/web/public/assets/backend/footercss.css</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Agricurtural%20Spices/src/java/Servlet/DeleteServlet.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Agricurtural%20Spices/src/java/Controller/TransactionController.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Agricurtural%20Spices/src/java/Query/TransactionQuery.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Agricurtural%20Spices/src/java/Controller/UserController.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Agricurtural%20Spices/src/java/Query/ProductQuery.java</file>
+        </group>
+    </open-files>
+</project-private>
